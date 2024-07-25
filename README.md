@@ -5,7 +5,7 @@ A Flutter-based mobile application designed to test and enhance your math knowle
 # Features
 
 True/False Questions: Test your knowledge with a range of math-related questions.
-Score Tracking: Keep track of your score as you progress through the quiz.
+Score Tracking: Keep track of your score as you progress through the quiz.              
 Alerts and Feedback: Receive an alert at the end of the quiz showing your total score.
 Dynamic Question Handling: The quiz resets after completion, allowing for multiple attempts.
 
