@@ -11,5 +11,5 @@ Dynamic Question Handling: The quiz resets after completion, allowing for multip
 
 # Technologies Used
 
-Flutter: Framework for building the mobile app.
+Flutter: Framework for building the mobile app.                                                    
 rFlutter Alert: Package for displaying alert dialogs in Flutter.
