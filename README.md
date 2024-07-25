@@ -1,16 +1,15 @@
-# quiz_app
+# Math Quiz App
 
-A new Flutter project.
+A Flutter-based mobile application designed to test and enhance your math knowledge through an engaging quiz format. The app features a series of true/false questions related to mathematics, providing immediate feedback on user answers and tracking performance throughout the quiz.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+True/False Questions: Test your knowledge with a range of math-related questions.
+Score Tracking: Keep track of your score as you progress through the quiz.
+Alerts and Feedback: Receive an alert at the end of the quiz showing your total score.
+Dynamic Question Handling: The quiz resets after completion, allowing for multiple attempts.
 
-A few resources to get you started if this is your first Flutter project:
+# Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: Framework for building the mobile app.
+rFlutter Alert: Package for displaying alert dialogs in Flutter.
